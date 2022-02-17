@@ -7,3 +7,5 @@ Welcome to chapter 2
 Editing...
 
 More edits here!
+
+Edit stashable
