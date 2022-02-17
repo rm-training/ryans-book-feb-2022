@@ -1,4 +1,4 @@
-# Chapter 1 - The Awesome Chapter
+# Chapter 1 - Grumpy (the fun kind)
 
 Edited on main directly
 
