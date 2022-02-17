@@ -1,4 +1,4 @@
-# Chapter 1 - Grumpy!
+# Chapter 1 - Grumpy (the fun kind)
 
 Edited on main directly
 
