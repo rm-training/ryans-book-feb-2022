@@ -1,5 +1,0 @@
-# Terms
-
-Edited
-Edited
-Edited
